@@ -1,4 +1,4 @@
-package com.weborders.utils;
+package com.weborders.utilities;
 
 import java.io.FileInputStream;
 import java.io.IOException;

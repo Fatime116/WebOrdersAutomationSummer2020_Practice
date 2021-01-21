@@ -1,4 +1,4 @@
-package com.weborders.utils;
+package com.weborders.utilities;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
