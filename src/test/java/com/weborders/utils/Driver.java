@@ -23,7 +23,7 @@ public class Driver {
 
 
                 if(driver==null){//we check if the driver object is null or not
-                    String browser ="chrome";
+                    String browser =ConfigurationReader.getProperty("browser");
                     switch (browser){
                         case "chrome":
                             WebDriverManager.chromedriver().setup();
